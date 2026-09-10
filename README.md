@@ -1,4 +1,6 @@
 # Apna-college-demo
 this is my first project
 <br>
-Author: Nishant Gupta
+Author: Nishant (Chawalpani-pipariya)
+
+
